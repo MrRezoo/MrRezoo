@@ -16,12 +16,9 @@
   <img align="left" alt="Reza Mobaraki | GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 </a>
 
-
 <br/>
 <br/>
 <br/>
-
-
 
 My name is **Reza Mobaraki**
 
