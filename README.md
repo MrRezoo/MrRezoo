@@ -57,7 +57,7 @@ According to Steve Jobs:
 - ⚡ Fun fact: ... Life may be hard, but you had the best of it from the beginning
 ---
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
   
   
 **Languages and Tools:**  
