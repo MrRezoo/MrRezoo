@@ -1,4 +1,4 @@
-### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Reza Mobaraki ( Mr.Rezoo ),
+### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Mr.Rezoo is there,
 
 <a href="https://www.linkedin.com/in/reza-mobaraki/">
   <img align="left" alt="Mr.Rezoo's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -17,9 +17,17 @@
 </a>
 
 
-
-
 <br />
+
+My name is **Reza Mobaraki**
+Undergraduate student of software engineering
+I love technology and programming, especially technologies developed by Apple.
+I am particularly interested in automating everyday life.
+I believe in artificial intelligence and hope for machine learning.
+i have a little experience in web development.
+I have a great passion for realizing and implementing ideas and dreams.
+I have a lot of respect for those who progress with effort, perseverance and self-sacrifice.
+I am always ready to help those who care about their lives moment by moment
 
 
 Here are some ideas to get you started:
