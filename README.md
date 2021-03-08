@@ -17,7 +17,7 @@
 </a>
 
 <br/>
-<br/>
+
 
 ### My name is **Reza Mobaraki**
 
@@ -36,6 +36,7 @@ I have a great passion for realizing and implementing ideas and dreams.
 I have a lot of respect for those who progress with effort, perseverance and self-sacrifice.
 
 I am always ready to help those who care about their lives moment by moment
+
 ---
 
 Here are some ideas to get you started:
