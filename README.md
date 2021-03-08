@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Best Developers :)
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Telegram Chanel Mr_Rezoo](https://t.me/MR_Rezoo)
-- 😄 Pronouns: ... Some Thing
-- ⚡ Fun fact: ... I scream when I see an error
+- 📫 How to reach me: ... [Telegram => Mr_Rezoo](https://t.me/MR_Rezoo)
+- 😄 Pronouns: ... Motivated
+- ⚡ Fun fact: ... Life may be hard, but you had the best of it from the beginning
 
