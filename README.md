@@ -22,9 +22,7 @@
 My name is **Reza Mobaraki**
 
 Undergraduate student of software engineering
-
 I love technology and programming, especially technologies developed by Apple.
-
 I am particularly interested in automating everyday life.
 
 I believe in artificial intelligence and hope for machine learning.
