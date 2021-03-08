@@ -56,8 +56,6 @@ According to Steve Jobs:
 - 😄 Pronouns: ... Motivated
 - ⚡ Fun fact: ... Life may be hard, but you had the best of it from the beginning
 ---
-
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/MrRezoo/MrRezoo/main/python.gif" />
   
   
 **Languages and Tools:**  
@@ -79,3 +77,7 @@ According to Steve Jobs:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MrRezoo&show_icons=true&theme=gotham" alt="MrRezoo" />
 
 
+
+### My status in Github:
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrRezoo&theme=default&show_icons=true) 
