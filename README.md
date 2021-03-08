@@ -38,13 +38,18 @@ I have a lot of respect for those who progress with effort, perseverance and sel
 I am always ready to help those who care about their lives moment by moment
 
 ---
+As Kanye West said:
+
+> We're living the future so
+> the present is our past
+> 
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ... Python & Data Mining
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... Crawling
+- 👯 I’m looking to collaborate on ... Best Developers :)
+- 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Telegram Chanel Mr_Rezoo](https://t.me/MR_Rezoo)
 - 😄 Pronouns: ... Some Thing
