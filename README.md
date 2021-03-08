@@ -38,13 +38,14 @@ I have a lot of respect for those who progress with effort, perseverance and sel
 I am always ready to help those who care about their lives moment by moment
 
 ---
-According to Steve Jobs:
+also I am an open-source enthusiast and maintainer.
 
+And eager to find skillful and knowledgeable friends through open-source society and get knowledge
+
+According to Steve Jobs:
 > Stay hungry
 > Stay Foolish
-> 
-
-Here are some ideas to get you started:
+---
 
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ... Python & Data Mining
@@ -54,4 +55,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Telegram => Mr_Rezoo](https://t.me/MR_Rezoo)
 - 😄 Pronouns: ... Motivated
 - ⚡ Fun fact: ... Life may be hard, but you had the best of it from the beginning
+
+
 
