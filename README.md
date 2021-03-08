@@ -1,7 +1,7 @@
 ### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/reza-mobaraki/">
-  <img align="left" alt="Mr.Rezoo's LinkedIN" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Mr.Rezoo's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/mr.rezoo/">
   <img align="left" alt="Mr.Rezoo's Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
