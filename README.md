@@ -38,10 +38,10 @@ I have a lot of respect for those who progress with effort, perseverance and sel
 I am always ready to help those who care about their lives moment by moment
 
 ---
-As Kanye West said:
+According to Steve Jobs:
 
-> We're living the future so
-> the present is our past
+> Stay hungry
+> Stay Foolish
 > 
 
 Here are some ideas to get you started:
