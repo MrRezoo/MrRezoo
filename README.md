@@ -8,9 +8,7 @@
 <a href="https://www.linkedin.com/in/reza-mobaraki/">
   <img align="left" alt="Mr.Rezoo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://t.me/MR_Rezoo">
-  <img align="left" alt="Mr.Rezoo's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/telegram.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MrRezoo.MrRezoo)
 
