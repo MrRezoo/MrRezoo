@@ -47,6 +47,10 @@ According to Steve Jobs:
 > Stay Foolish
 ---
 
+<img align="right" alt="GIF" src="https://github.com/MrRezoo/MrRezoo/blob/main/code.gif"  width="500" height="320""/>
+
+### 🧐 More About Me:
+
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ... Python & Data Mining
 - 👯 I’m looking to collaborate on ... Best Developers :)
@@ -55,21 +59,27 @@ According to Steve Jobs:
 - 📫 How to reach me: ... [Telegram => Mr_Rezoo](https://t.me/MR_Rezoo)
 - 😄 Pronouns: ... Motivated
 - ⚡ Fun fact: ... Life may be hard, but you had the best of it from the beginning
+
+
 ---
   
   
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+### 🔨 Languages and Tools:
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 
 📈 My GitHub Stats
@@ -81,3 +91,56 @@ According to Steve Jobs:
 ### My status in Github:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrRezoo&theme=default&show_icons=true) 
+
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=jatin2003&theme=radical&show_icons=true" alt="Jatin's Github Stats" />
+</p>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" alt="Visitor Count" />
+</p>
+
+
+
+
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/MrRezoo/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/MrRezoo/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+
+### 🐱My Github stats:
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=MrRezoo&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRezoo&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.47% 
+🌆 Daytime    92 commits     ██████░░░░░░░░░░░░░░░░░░░   25.99% 
+🌃 Evening    181 commits    ████████████░░░░░░░░░░░░░   51.13% 
+🌙 Night      51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.41%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
+Tuesday      25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.74% 
+Wednesday    58 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.96% 
+Thursday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.95% 
+Friday       21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.5% 
+Saturday     75 commits     █████░░░░░░░░░░░░░░░░░░░░   23.22% 
+Sunday       86 commits     ██████░░░░░░░░░░░░░░░░░░░   26.63%
+
+```
+
+
+
+<!--END_SECTION:waka-->
+
