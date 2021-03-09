@@ -61,7 +61,7 @@ According to Steve Jobs:
 ---
 
 
-<img src="https://github.com/MrRezoo/MrRezoo/blob/main/business-graph.gif?raw=true" width="35px">  My GitHub Stats
+<img src="https://github.com/MrRezoo/MrRezoo/blob/main/business-graph.gif" width="35px">  My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MrRezoo&show_icons=true&theme=default" alt="MrRezoo" />
   
