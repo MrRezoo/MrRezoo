@@ -47,8 +47,6 @@ According to Steve Jobs:
 > Stay Foolish
 ---
 
-<img align="right" alt="GIF" src="https://github.com/MrRezoo/MrRezoo/blob/main/code.gif"  width="500" height="320""/>
-
 ### 🧐 More About Me:
 
 - 🔭 I’m currently working on ... 
@@ -60,8 +58,8 @@ According to Steve Jobs:
 - 😄 Pronouns: ... Motivated
 - ⚡ Fun fact: ... Life may be hard, but you had the best of it from the beginning
 
-
 ---
+
   
   
 **Languages and Tools:**  
