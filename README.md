@@ -29,7 +29,7 @@ I am particularly interested in automating everyday life.
 
 I believe in artificial intelligence and hope for machine learning.
 
-i have a little experience in web development.
+I have a little experience in web development.
 
 I have a great passion for realizing and implementing ideas and dreams.
 
