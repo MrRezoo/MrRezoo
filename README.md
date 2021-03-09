@@ -19,9 +19,7 @@
 <br/>
 
 
-### My name is **Reza Mobaraki**
-
-Undergraduate student of software engineering
+### My name is **Reza Mobaraki** 
 
 I love technology and programming, especially technologies developed by Apple.
 
