@@ -86,59 +86,8 @@ According to Steve Jobs:
 
 
 
-### My status in Github:
+#### My status in Github:
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrRezoo&theme=default&show_icons=true) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrRezoo&theme=default&show_icons=true alt="MrRezoo") 
 
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=jatin2003&theme=radical&show_icons=true" alt="Jatin's Github Stats" />
-</p>
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" alt="Visitor Count" />
-</p>
-
-
-
-
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/MrRezoo/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/MrRezoo/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
-
-### 🐱My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=MrRezoo&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRezoo&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.47% 
-🌆 Daytime    92 commits     ██████░░░░░░░░░░░░░░░░░░░   25.99% 
-🌃 Evening    181 commits    ████████████░░░░░░░░░░░░░   51.13% 
-🌙 Night      51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.41%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
-Tuesday      25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.74% 
-Wednesday    58 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.96% 
-Thursday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.95% 
-Friday       21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.5% 
-Saturday     75 commits     █████░░░░░░░░░░░░░░░░░░░░   23.22% 
-Sunday       86 commits     ██████░░░░░░░░░░░░░░░░░░░   26.63%
-
-```
-
-
-
-<!--END_SECTION:waka-->
 
