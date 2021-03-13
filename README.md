@@ -22,8 +22,8 @@
 ### My name is **Reza Mobaraki** 
 
 
-<h2 align="center"> 👨‍💻 Who am I?</h2>
-<p align="center">
+<h2 > 👨‍💻 Who am I?</h2>
+<p>
   <samp>
 I love technology and programming, especially technologies developed by Apple.I am particularly interested in automating everyday life.I believe in artificial intelligence and hope for machine learning.I have a little experience in web development.
   </samp><br><br>
