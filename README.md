@@ -21,28 +21,18 @@
 
 ### My name is **Reza Mobaraki** 
 
-I love technology and programming, especially technologies developed by Apple.
 
-I am particularly interested in automating everyday life.
+<h2 align="center"> 👨‍💻 Who am I?</h2>
+<p align="center">
+  <samp>
+I love technology and programming, especially technologies developed by Apple.I am particularly interested in automating everyday life.I believe in artificial intelligence and hope for machine learning.I have a little experience in web development.
+  </samp><br><br>
+  <samp>
+I have a great passion for realizing and implementing ideas and dreams.I have a lot of respect for those who progress with effort, perseverance and self-sacrifice.I am always ready to help those who care about their lives moment by moment
+   </samp>
+  <br> <br>
+</p>
 
-I believe in artificial intelligence and hope for machine learning.
-
-I have a little experience in web development.
-
-I have a great passion for realizing and implementing ideas and dreams.
-
-I have a lot of respect for those who progress with effort, perseverance and self-sacrifice.
-
-I am always ready to help those who care about their lives moment by moment
-
----
-also I am an open-source enthusiast and maintainer.
-
-And eager to find skillful and knowledgeable friends through open-source society and get knowledge
-
-According to Steve Jobs:
-> Stay hungry
-> Stay Foolish
 ---
 
 ### 🧐 More About Me:
