@@ -21,18 +21,6 @@
 
 ### My name is **Reza Mobaraki** 
 
-
-<h2 > 👨‍💻 Who am I?</h2>
-<p>
-  <samp>
-I love technology and programming, especially technologies developed by Apple.I am particularly interested in automating everyday life.I believe in artificial intelligence and hope for machine learning.I have a little experience in web development.
-  </samp><br><br>
-  <samp>
-I have a great passion for realizing and implementing ideas and dreams.I have a lot of respect for those who progress with effort, perseverance and self-sacrifice.I am always ready to help those who care about their lives moment by moment
-   </samp>
-  <br> <br>
-</p>
-
 ---
 
 ### 🧐 More About Me:
