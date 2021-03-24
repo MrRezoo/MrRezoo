@@ -24,10 +24,10 @@
 
 ### 🧐 More About Me:
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... Python & Data Mining
+- 🔭 I’m currently working on ... Development of technical skills
+- 🌱 I’m currently learning ... Python
 - 👯 I’m looking to collaborate on ... Best Developers :)
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Telegram => Mr_Rezoo](https://t.me/MR_Rezoo)
 - 😄 Pronouns: ... Motivated
