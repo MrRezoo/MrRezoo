@@ -31,7 +31,7 @@
 - 💬 Ask me about ... Anything
 - <img src="assets/images/emoji/open-mailbox-with-raised-flag.gif" width="25px"> How to reach me: ... [Telegram => Mr_Rezoo](https://t.me/MR_Rezoo)
 - <img src="assets/images/emoji/grinning-face-with-smiling-eyes.gif" width="25px"> Pronouns: ... Motivated
-- ⚡ Fun fact: ... Life may be hard, but you had the best of it from the beginning
+- <img src="assets/images/emoji/High-Voltage.gif" width="25px"> Fun fact: ... Life may be hard, but you had the best of it from the beginning
 
 ---
 
