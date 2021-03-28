@@ -27,10 +27,10 @@
 - 🔭 I’m currently working on ... Development of technical skills
 - 🌱 I’m currently learning ... Python
 - 👯 I’m looking to collaborate on ... Best Developers :)
-- 🤔 I’m looking for help with ... 
+- <img src="assets/images/emoji/thinking-face-1.gif" width="25px"> I’m looking for help with ... 
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Telegram => Mr_Rezoo](https://t.me/MR_Rezoo)
-- 😄 Pronouns: ... Motivated
+- <img src="assets/images/emoji/open-mailbox-with-raised-flag.gif" width="25px"> How to reach me: ... [Telegram => Mr_Rezoo](https://t.me/MR_Rezoo)
+- <img src="assets/images/emoji/grinning-face-with-smiling-eyes.gif" width="25px"> Pronouns: ... Motivated
 - ⚡ Fun fact: ... Life may be hard, but you had the best of it from the beginning
 
 ---
