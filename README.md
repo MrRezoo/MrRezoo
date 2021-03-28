@@ -24,7 +24,7 @@
 
 ### <img src="assets/images/emoji/face-with-monocle.gif" width="25px">  More About Me:
 
-- 🔭 I’m currently working on ... Development of technical skills
+- <img src="assets/images/emoji/Dart_WIN-1.gif-1.gif" width="25px"> I’m currently working on ... Development of technical skills
 - 🌱 I’m currently learning ... Python
 - 👯 I’m looking to collaborate on ... Best Developers :)
 - <img src="assets/images/emoji/thinking-face-1.gif" width="25px"> I’m looking for help with ... 
