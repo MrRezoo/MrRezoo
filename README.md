@@ -22,7 +22,7 @@
 
 ---
 
-### 🧐 More About Me:
+### <img src="assets/images/emoji/face-with-monocle.gif" width="25px">  More About Me:
 
 - 🔭 I’m currently working on ... Development of technical skills
 - 🌱 I’m currently learning ... Python
