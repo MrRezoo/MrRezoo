@@ -36,7 +36,6 @@
 ---
 
 
-<img src="assets/images/logo/business-graph.gif" width="35px"><label>**My GitHub Stats**</label>
 
 
 <p align="center">
@@ -47,7 +46,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
 
-**🐱 My Github Data** 
+**<img src="assets/images/logo/business-graph.gif" width="35px"> My Github Data** 
 
 > 🏆 148 Contributions in the Year 2021
  > 
