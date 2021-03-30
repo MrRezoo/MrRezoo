@@ -41,12 +41,13 @@
 
 <p align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=MrRezoo&show_icons=true&theme=default" alt="MrRezoo" />
+   
+---
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrRezoo&show_icons=true&theme=default" alt="MrRezoo" />
-  
- 
 ---
   
 ### 🔨 Languages and Tools:
