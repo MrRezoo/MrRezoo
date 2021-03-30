@@ -124,7 +124,7 @@ Python                   4 repos             ██████████░�
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/MrRezoo/MrRezoo/main/charts/bar_graph.png) 
-
+<figure><embed src="https://wakatime.com/share/@ccdbd1d6-94c0-4c1a-a0e6-ba153c1fadcc/fa82bc34-0467-4bab-8a54-87279ad232b9.svg"></embed></figure>
 
 <!--END_SECTION:waka-->
 
