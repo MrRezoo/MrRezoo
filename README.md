@@ -39,7 +39,12 @@
 <img src="assets/images/logo/business-graph.gif" width="35px"><label>**My GitHub Stats**</label>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MrRezoo&show_icons=true&theme=default" alt="MrRezoo" />
+<p align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="https://github-readme-stats.vercel.app/api?username=MrRezoo&show_icons=true&theme=default" alt="MrRezoo" />
   
  
 ---
