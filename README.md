@@ -124,10 +124,10 @@ Python                   4 repos             ██████████░�
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/MrRezoo/MrRezoo/main/charts/bar_graph.png) 
-<figure><embed src="https://wakatime.com/share/@ccdbd1d6-94c0-4c1a-a0e6-ba153c1fadcc/fa82bc34-0467-4bab-8a54-87279ad232b9.svg"></embed></figure>
 
 <!--END_SECTION:waka-->
-
+.. image:: https://wakatime.com/share/@ccdbd1d6-94c0-4c1a-a0e6-ba153c1fadcc/617deed8-722d-45d2-97fb-94a901031bb6.png
+    :target: https://wakatime.com/
 ---
   
 ### 🔨 Languages and Tools:
