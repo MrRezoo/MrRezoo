@@ -44,17 +44,17 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-120-blue)
 
-**<img src="assets/images/logo/business-graph.gif" width="35px"> My Github Data** 
+**🐱 My Github Data** 
 
-> 🏆 148 Contributions in the Year 2021
+> 🏆 154 Contributions in the Year 2021
  > 
 > 📦 318.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
