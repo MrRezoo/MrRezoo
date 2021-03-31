@@ -46,20 +46,8 @@
 <img src="assets/images/logo/business-graph.gif" width="50px">
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-120-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-156-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 154 Contributions in the Year 2021
- > 
-> 📦 318.8 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -69,25 +57,11 @@
 🌙 Night      10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.05%
 
 ```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       13 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.66% 
-Tuesday      4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.82% 
-Wednesday    14 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.87% 
-Thursday     6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.23% 
-Friday       11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
-Saturday     4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.82% 
-Sunday       31 commits     █████████░░░░░░░░░░░░░░░░   37.35%
-
-```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Tehran
-
 💬 Programming Languages: 
 Other                    30 hrs 55 mins      █████████████████░░░░░░░░   71.23% 
 Python                   10 hrs 52 mins      ██████░░░░░░░░░░░░░░░░░░░   25.05% 
@@ -107,9 +81,6 @@ crawling                 3 hrs 3 mins        █░░░░░░░░░░�
 MrRezoo                  2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
 src2                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.74%
 
-💻 Operating System: 
-Mac                      43 hrs 24 mins      █████████████████████████   100.0%
-
 ```
 
 **I Mostly Code in PHP** 
@@ -121,10 +92,7 @@ Python                   4 repos             ██████████░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/MrRezoo/MrRezoo/main/charts/bar_graph.png) 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ccdbd1d6-94c0-4c1a-a0e6-ba153c1fadcc/617deed8-722d-45d2-97fb-94a901031bb6.png" height ="330px" /></a>
 <!--END_SECTION:waka-->
 
 ---
