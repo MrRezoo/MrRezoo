@@ -43,10 +43,21 @@
 
 [comment]: <> (<img src="https://github-readme-stats.vercel.app/api?username=MrRezoo&show_icons=true&theme=default" alt="MrRezoo" />)
 
-<img src="https://github.com/MrRezoo/MrRezoo/blob/main/business-graph.gif" width="35px">  My GitHub Stats
+<img src="assets/images/logo/business-graph.gif" width="35px">  My GitHub Stats
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-156-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2% 
+🌆 Daytime    44 commits     █████████████░░░░░░░░░░░░   53.01% 
+🌃 Evening    28 commits     ████████░░░░░░░░░░░░░░░░░   33.73% 
+🌙 Night      10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.05%
+
+```
+
 
 📊 **This Week I Spent My Time On** 
 
