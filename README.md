@@ -43,7 +43,7 @@
 
 [comment]: <> (<img src="https://github-readme-stats.vercel.app/api?username=MrRezoo&show_icons=true&theme=default" alt="MrRezoo" />)
 
-<img src="assets/images/logo/business-graph.gif" width="35px">  My GitHub Stats
+### <img src="assets/images/logo/business-graph.gif" width="35px">  My GitHub Stats
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-156-blue)
