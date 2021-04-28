@@ -14,8 +14,8 @@
 ### <img src="assets/images/emoji/smiling-face-with-sunglasses-1.gif" width="30px">  More About Me:
 
 - <img src="assets/images/emoji/Dart_WIN-1.gif-1.gif" width="25px"> I’m currently working on ... Development of my technical skills
-- 🌱 I’m currently learning ... Python
-- 👯 I’m looking to collaborate on ... Best Developers :)
+- <img src="assets/images/emoji/fire-1.gif" width="25px">  I’m currently learning ... Python
+- <img src="assets/images/emoji/Magnifying-Glass-Tilted-Right.gif" width="25px"> I’m looking to collaborate on ... Best Developers :)
 - <img src="assets/images/emoji/face-with-monocle.gif" width="25px"> I’m looking for help with ... 
 - 💬 Ask me about ... Anything
 - <img src="assets/images/emoji/open-mailbox-with-raised-flag.gif" width="25px"> How to reach me: ... [Telegram => Mr_Rezoo](https://t.me/MR_Rezoo)
