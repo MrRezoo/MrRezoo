@@ -91,7 +91,7 @@
 ![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
 ![GPU](https://img.shields.io/badge/AMD-Radeon_PRO_5500M-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
-
+---
 
 
 ### <img src="assets/images/logo/business-graph.gif" width="35px">  My GitHub Stats
