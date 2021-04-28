@@ -11,12 +11,12 @@
 
 ---
 
-### <img src="assets/images/emoji/face-with-monocle.gif" width="30px">  More About Me:
+### <img src="assets/images/emoji/open-mailbox-with-raised-flag.gif" width="30px">  More About Me:
 
 - <img src="assets/images/emoji/Dart_WIN-1.gif-1.gif" width="25px"> I’m currently working on ... Development of my technical skills
 - 🌱 I’m currently learning ... Python
 - 👯 I’m looking to collaborate on ... Best Developers :)
-- <img src="assets/images/emoji/thinking-face-1.gif" width="25px"> I’m looking for help with ... 
+- <img src="assets/images/emoji/face-with-monocle.gif" width="25px"> I’m looking for help with ... 
 - 💬 Ask me about ... Anything
 - <img src="assets/images/emoji/open-mailbox-with-raised-flag.gif" width="25px"> How to reach me: ... [Telegram => Mr_Rezoo](https://t.me/MR_Rezoo)
 - <img src="assets/images/emoji/grinning-face-with-smiling-eyes.gif" width="25px"> Pronouns: ... Motivated
