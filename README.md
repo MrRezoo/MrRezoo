@@ -81,10 +81,7 @@
 [![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://www.apple.com/macbook-pro/)
 [![GPU](https://img.shields.io/badge/AMD-Radeon_PRO_5500M-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/en/graphics/radeon-apple-5000m-series)
 
-### 💻 Idea :
 
-[![PhpStorm](assets/images/logo/jetbrains_phpstorm_button_icon_151877.svg)](https://www.jetbrains.com/)
----
 
 
 ### <img src="assets/images/logo/business-graph.gif" width="35px">  My GitHub Stats
