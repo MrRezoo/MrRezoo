@@ -63,10 +63,6 @@
 [comment]: <> (![Docker]&#40;https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&#41;)
 [comment]: <> (![GraphQL]&#40;https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white&#41;)
 
-### 💻 Idea :
-
-[![PyCharm](assets/images/logo/jetbrains_pycharm_button_icon_151876.svg)](https://www.jetbrains.com/)
-[![PhpStorm](assets/images/logo/jetbrains_phpstorm_button_icon_151877.svg)](https://www.jetbrains.com/)
 
 ### ⚡ Database :
 
@@ -83,6 +79,10 @@
 [![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://www.apple.com/macbook-pro/)
 [![GPU](https://img.shields.io/badge/AMD-Radeon_PRO_5500M-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/en/graphics/radeon-apple-5000m-series)
 
+### 💻 Idea :
+
+[![PyCharm](assets/images/logo/jetbrains_pycharm_button_icon_151876.svg)](https://www.jetbrains.com/)
+[![PhpStorm](assets/images/logo/jetbrains_phpstorm_button_icon_151877.svg)](https://www.jetbrains.com/)
 ---
 
 
