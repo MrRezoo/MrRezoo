@@ -11,7 +11,7 @@
 
 ---
 
-### <img src="assets/images/emoji/open-mailbox-with-raised-flag.gif" width="30px">  More About Me:
+### <img src="assets/images/emoji/smiling-face-with-sunglasses-1.gif" width="30px">  More About Me:
 
 - <img src="assets/images/emoji/Dart_WIN-1.gif-1.gif" width="25px"> I’m currently working on ... Development of my technical skills
 - 🌱 I’m currently learning ... Python
