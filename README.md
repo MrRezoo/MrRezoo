@@ -132,6 +132,10 @@ PHP                      6 repos             ██████████░�
 
 
 ### My Workspace
-https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white
+
+![MacBookPro](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white)
+![Processor](https://img.shields.io/badge/Intel-Core_i7_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
+![GPU](https://img.shields.io/badge/AMD-Radeon_PRO_5500M-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 
