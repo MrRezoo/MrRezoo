@@ -129,9 +129,9 @@ PHP                      6 repos             ██████████░�
 ---
   
 ### 🔨 Languages and Tools:
-<p align="center">
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="assets/images/logo/iconfinder_267_Python_4518857.png"></a>
-<a href="https://www.laravel.com" target="_blank"><img align="left" alt="Laravel" height ="42px" src="assets/images/logo/laravel-logo-pngrepo-com.png"></a>
-<a href="https://git-scm.com" target="_blank"><img align="left" alt="Git" height ="42px" src="assets/images/logo/iconfinder_social_media_social_media_logo_git_2993773.png"></a>
-<a href="https://www.linux.org" target="_blank"><img align="left" alt="Linux" height ="42px" src="assets/images/logo/iconfinder_linux-server-system-platform-os-computer-penguin_652577.png"></a>
+
+
+### My Workspace
+https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white
+
 
