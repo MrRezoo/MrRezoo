@@ -58,9 +58,9 @@
 
 ### 🚀 Frameworks :
 
-[comment]: <> ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-[comment]: <> ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-[comment]: <> ![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
+[comment]: <> (![Django]&#40;https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&#41;)
+[comment]: <> (![Flask]&#40;https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&#41;)
+[comment]: <> (![FastAPI]&#40;https://img.shields.io/badge/fastapi-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white&#41;)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
@@ -72,8 +72,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-[comment]: <> ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-[comment]: <> ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+[comment]: <> (![Docker]&#40;https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&#41;)
+[comment]: <> (![GraphQL]&#40;https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white&#41;)
 
 
 ### ⚡ Database :
