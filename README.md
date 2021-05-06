@@ -88,9 +88,9 @@
 ### <img src="assets/images/logo/business-graph.gif" width="35px">  My GitHub Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-117-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-129-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-471645%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-471691%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
