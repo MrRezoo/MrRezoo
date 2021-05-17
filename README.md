@@ -44,9 +44,8 @@
 
 ### 🚀 Frameworks :
 
-[comment]: <> (![Django]&#40;https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&#41;)
 [comment]: <> (![Flask]&#40;https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&#41;)
-[comment]: <> (![FastAPI]&#40;https://img.shields.io/badge/fastapi-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white&#41;)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
 [![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
