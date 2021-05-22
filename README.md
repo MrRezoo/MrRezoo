@@ -14,7 +14,7 @@
 
 ### <img src="assets/images/emoji/smiling-face-with-sunglasses-1.gif" width="30px">  More About Me:
 
-- <img src="assets/images/emoji/Dart_WIN-1.gif" width="25px"> I’m currently working on ... Development of my technical skills
+- <img src="assets/images/emoji/Dart_WIN-1.gif" width="25px"> I’m currently working on ... Developing of my technical skills
 - <img src="assets/images/emoji/fire-1.gif" width="25px">  I’m currently learning ... Python
 - <img src="assets/images/emoji/Handshake.gif" width="25px"> I’m looking to collaborate on ... Best Developers :)
 - <img src="assets/images/emoji/face-with-monocle.gif" width="25px"> I’m looking for help with ... 
@@ -36,7 +36,7 @@
   
 ### 🔨 Languages :
 
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=green)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/html5/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://css-tricks.com/)
@@ -45,9 +45,14 @@
 ### 🚀 Frameworks :
 
 [comment]: <> (![Flask]&#40;https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&#41;)
+<<<<<<< HEAD
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://www.djangoproject.com/)
+=======
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+>>>>>>> 00f2c91c9ca502a9a59eae210a9bbe543919a68d
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
+[![VueJs](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D)](https://vuejs.org/)
 [![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 
 
@@ -87,40 +92,39 @@
 ### <img src="assets/images/logo/business-graph.gif" width="35px">  My GitHub Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-479362%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-481878%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    60 hrs 24 mins      █████████████████████░░░░   84.73% 
-Python                   5 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   7.05% 
-PHP                      2 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.13% 
-HTML                     1 hr 56 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
-SQL                      51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2%
+Other                    68 hrs 56 mins      ████████████████████░░░░░   80.83% 
+Python                   10 hrs 14 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.01% 
+HTML                     4 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.89% 
+PHP                      40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79% 
+JavaScript               35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69%
 
 🔥 Editors: 
-Browser                  60 hrs 19 mins      █████████████████████░░░░   84.6% 
-PyCharm                  7 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.14% 
-PhpStorm                 2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   3.87% 
-VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
+Browser                  68 hrs 56 mins      ████████████████████░░░░░   80.82% 
+PyCharm                  15 hrs 39 mins      ████░░░░░░░░░░░░░░░░░░░░░   18.36% 
+PhpStorm                 41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
 
 🐱‍💻 Projects: 
-sample_project           18 hrs 32 mins      ██████░░░░░░░░░░░░░░░░░░░   26.0% 
-blog-django              17 hrs              ██████░░░░░░░░░░░░░░░░░░░   23.85% 
-mabahes1-ex7-1           10 hrs 59 mins      ███░░░░░░░░░░░░░░░░░░░░░░   15.41% 
-multi-threading          8 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15% 
-goodreads                5 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+social                   34 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   40.1% 
+blog-django              32 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   38.0% 
+MrRezoo                  4 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.48% 
+sample_project           4 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+cbv                      2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   3.51%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            █████████████████░░░░░░░░   70.0% 
-PHP                      6 repos             ███████░░░░░░░░░░░░░░░░░░   30.0%
+Python                   16 repos            ██████████████████░░░░░░░   72.73% 
+PHP                      6 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27%
 
 ```
 
