@@ -90,7 +90,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-483998%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-484656%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -120,8 +120,8 @@ Badges4-README.md-Profile2 hrs 57 mins       █░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   18 repos            ██████████████████░░░░░░░   75.0% 
-PHP                      6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
+Python                   19 repos            ███████████████████░░░░░░   76.0% 
+PHP                      6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.0%
 
 ```
 
