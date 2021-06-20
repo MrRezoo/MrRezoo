@@ -93,7 +93,7 @@
 ### <img src="assets/images/logo/business-graph.gif" width="35px">  My GitHub Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-487151%20lines%20of%20code-blue)
 
@@ -101,20 +101,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 35 mins       ███████████████████████░░   92.17% 
-HTML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.65% 
-PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  2 hrs 48 mins       █████████████████████████   99.82% 
-PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DjangoClub               2 hrs 40 mins       ███████████████████████░░   95.29% 
-multi-threading          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.45% 
-mabahes1-ex8-1           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18% 
-fast_API                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+No Activity Tracked This Week
 
 ```
 
@@ -128,5 +121,5 @@ PHP                      6 repos             █████░░░░░░�
 
 
 
- Last Updated on 19/06/2021
+ Last Updated on 20/06/2021
 <!--END_SECTION:waka-->
