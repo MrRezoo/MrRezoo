@@ -93,9 +93,9 @@
 ### <img src="assets/images/logo/business-graph.gif" width="35px">  My GitHub Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-523654%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-523925%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -114,9 +114,9 @@ mabahes1-ex8-1           5 hrs 40 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   20 repos            █████████████████░░░░░░░░   71.43% 
-PHP                      7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
+Python                   21 repos            ██████████████████░░░░░░░   72.41% 
+PHP                      7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14% 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
 
 ```
 
