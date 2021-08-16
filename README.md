@@ -1,5 +1,4 @@
-## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Mr.Rezoo ( Reza Mobaraki )
-
+## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Mr.Rezoo
 ### Reach me on : 
 
 [![Reza Mobaraki | Mr.Rezoo's | LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-mobaraki)
