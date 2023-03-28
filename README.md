@@ -1,5 +1,7 @@
-### Hi I am Rezoo<img src="assets/images/emoji/smiling-face-with-sunglasses-1.gif" width="35px"> 
+### Hi I am Rezoo<img src="assets/images/emoji/smiling-face-with-sunglasses-1.gif" width="35px">  
+[![Reza Mobaraki | Mr.Rezoo's | Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=resume&logoColor=white)](https://flowcv.com/resume/3tcgks0hub)
 #### Reach me on : 
+
 
 [![Reza Mobaraki | Mr.Rezoo's | LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-mobaraki)
 [![Reza Mobaraki | Mr.Rezoo's | Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.rezoo/)
