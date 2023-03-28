@@ -11,16 +11,11 @@
 
 ---
 
-### <img src="assets/images/emoji/smiling-face-with-sunglasses-1.gif" width="30px">  More About Me:
-
-- <img src="assets/images/emoji/Dart_WIN-1.gif" width="25px"> I’m currently working on ... Django
-- <img src="assets/images/emoji/fire-1.gif" width="25px">  I’m currently learning ...  Datamining - machine learning
-- <img src="assets/images/emoji/Handshake.gif" width="25px"> I’m looking to collaborate on ... Best Developers :)
-- <img src="assets/images/emoji/face-with-monocle.gif" width="25px"> I’m looking for help with ... 
-- <img src="assets/images/emoji/memo-2.gif" width="25px"> Ask me about ... Anything
-- <img src="assets/images/emoji/open-mailbox-with-raised-flag.gif" width="25px"> How to reach me: ... [Telegram => Mr_Rezoo](https://t.me/MR_Rezoo)
-- <img src="assets/images/emoji/grinning-face-with-smiling-eyes.gif" width="25px"> Pronouns: ... Motivated
-- <img src="assets/images/emoji/High-Voltage.gif" width="25px"> Fun fact: ... Life may be hard, but you had the best of it from the beginning
+#### <img src="assets/images/emoji/Handshake.gif" width="25px">  About Me:
+```
+I’m a software engineer & developer, a fan of tech with 3 years of experience 🔥
+I believe personal development & teamwork therefore I’m eager to learn unlimited 💎
+```
 
 ---
 
