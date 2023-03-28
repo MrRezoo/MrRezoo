@@ -92,7 +92,4 @@
 
 
 ### <img src="assets/images/logo/business-graph.gif" width="35px">  My GitHub Stats
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+[![](https://visitcount.itsvg.in/api?id=MrRezoo&icon=1&color=1)](https://visitcount.itsvg.in)
