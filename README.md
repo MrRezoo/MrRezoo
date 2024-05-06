@@ -13,7 +13,7 @@
 
 #### <img src="assets/images/emoji/Handshake.gif" width="25px">  About Me:
 ```
-I’m a software engineer & developer, a fan of tech with 3 years of experience 🔥
+I’m a software engineer & developer, a fan of tech with 4 years of experience 🔥
 I believe personal development & teamwork therefore I’m eager to learn unlimited 💎
 ```
 
