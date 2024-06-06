@@ -15,7 +15,8 @@
 ```
 Software engineer with 4 years of experience specializing in Python, Django, and PostgreSQL 🔥
 Skilled in building scalable software architectures and optimizing system performance 👨🏻‍💻
-Collaborated effectively with cross-functional teams with about 15+ member on projects with a focus on enhancing user experience and meeting business requirements 🤝
+Collaborated effectively with cross-functional teams with about 15+ member on projects 🤝
+With a focus on enhancing user experience and meeting business requirements 📄
 Eager to embrace new opportunities and learn without limits 💎
 ```
 
