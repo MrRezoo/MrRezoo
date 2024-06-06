@@ -33,8 +33,3 @@ Eager to embrace new opportunities and learn without limits 💎
 [![PostgresQl](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
-
-
-#### <img src="assets/images/logo/business-graph.gif" width="35px">  My GitHub Stats
-[![](https://visitcount.itsvg.in/api?id=MrRezoo&icon=1&color=1)](https://visitcount.itsvg.in)
