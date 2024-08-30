@@ -1,19 +1,19 @@
-### Hi there, I'm Rezoo 👋
+### Hello there, I'm Rezoo! 👋
 [![Reza Mobaraki | Mr.Rezoo's | Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=resume&logoColor=white)](https://flowcv.com/resume/3tcgks0hub)
 
 ### 🤙 Contact Me:
-[![Reza Mobaraki | Mr.Rezoo's | LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrrezoo) 
-[![Reza Mobaraki | Mr.Rezoo's | Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MR_Rezoo) 
+[![Reza Mobaraki | Mr.Rezoo's | LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrrezoo)
+[![Reza Mobaraki | Mr.Rezoo's | Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MR_Rezoo)
 [![Reza Mobaraki | Mr.Rezoo's | Twitter](https://img.shields.io/badge/mr_rezoo-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Mr_Rezoo)
 
 ---
 
 ### 🤝 About Me:
-- 🔥 Software engineer with 4 years of experience specializing in Python, Django, and PostgreSQL
-- 👨🏻‍💻 Skilled in building scalable software architectures and optimizing system performance
-- 🤝 Collaborated effectively with cross-functional teams with about 15+ members on projects
-- 📄 With a focus on enhancing user experience and meeting business requirements
-- 💎 Eager to embrace new opportunities and learn without limits
+- 🔥 Passionate software engineer with 4 years of experience specializing in Python, Django, and PostgreSQL
+- 👨🏻‍💻 Expert in building scalable software architectures and optimizing system performance
+- 🤝 Proven track record of collaborating effectively with cross-functional teams of 15+ members on various projects
+- 📄 Dedicated to enhancing user experience and meeting business requirements
+- 💎 Always eager to embrace new opportunities and learn without limits
 
 ---
 
