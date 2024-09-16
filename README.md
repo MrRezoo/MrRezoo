@@ -34,27 +34,26 @@
 
 ### 🌟 Open-Source Projects:
 
-[Django for APIs: Build Web APIs with Python and Django](https://github.com/ftg-iran/dfa-persian)
-[Django for Professionals](https://github.com/mthri/dfp-persian)
+- [Django for APIs: Build Web APIs with Python and Django](https://github.com/ftg-iran/dfa-persian)
+- [Django for Professionals](https://github.com/mthri/dfp-persian)
+
 ---
 
 ### 🎓 Academic Projects:
 
-[Booking.com Integration](https://github.com/MrRezoo/booking): [Python, Django, DjangoREST, PostgreSQL, Docker]
-[PHP MVC Framework](https://github.com/MrRezoo/php-mvc-framework): [PHP, MySQL]
-[Text Mining](https://github.com/MrRezoo/TextMining-NLP/)
-[Company Accident Damage Estimate](https://github.com/MrRezoo/insurance-company/)
+- [Booking.com Integration](https://github.com/MrRezoo/booking): [Python, Django, DjangoREST, PostgreSQL, Docker]
+- [PHP MVC Framework](https://github.com/MrRezoo/php-mvc-framework): [PHP, MySQL]
+- [Text Mining](https://github.com/MrRezoo/TextMining-NLP/): [Python, NLP]
+- [Company Accident Damage Estimate](https://github.com/MrRezoo/insurance-company/): [Python, Machine Learning]
+
 ---
 
 ### 🚀 Sample Projects:
 
-[Task Mangement](https://github.com/MrRezoo/TaskManagement): [Golang, Fiber, Gorm, PostgreSQL, Docker]
-[Code Challenge](https://github.com/MrRezoo/code-challenge): [Golang, Python, Redis, Docker]
-[Car App](https://github.com/MrRezoo/CarApp): [Golang, Gin, Gorm, PostgreSQL, Docker]
-[Simplified GoodReads](https://github.com/MrRezoo/simple-goodreads): [Python, Django, DjangoREST, PostgreSQL, Docker]
-[Auth Service](https://github.com/MrRezoo/Django-Authentication-Service): [Python, Django, PostgreSQL, Docker]
-[Linkak](https://github.com/jamedadi/linkak): [Python, Django]
-[Online Shop](https://github.com/MrRezoo/django-online-shop): [Python, Django]
-
-
-
+- [Task Management](https://github.com/MrRezoo/TaskManagement): [Golang, Fiber, Gorm, PostgreSQL, Docker]
+- [Code Challenge](https://github.com/MrRezoo/code-challenge): [Golang, Python, Redis, Docker]
+- [Car App](https://github.com/MrRezoo/CarApp): [Golang, Gin, Gorm, PostgreSQL, Docker]
+- [Simplified GoodReads](https://github.com/MrRezoo/simple-goodreads): [Python, Django, DjangoREST, PostgreSQL, Docker]
+- [Auth Service](https://github.com/MrRezoo/Django-Authentication-Service): [Python, Django, PostgreSQL, Docker]
+- [Linkak](https://github.com/jamedadi/linkak): [Python, Django]
+- [Online Shop](https://github.com/MrRezoo/django-online-shop): [Python, Django]
