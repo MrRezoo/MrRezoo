@@ -12,7 +12,7 @@
 
 ### 🤝 About Me:
 
-- 🔥 Passionate software engineer with 4 years of experience specializing in Python, Django, and PostgreSQL
+- 🔥 Passionate software engineer with 4 years of experience specializing in Python, Golang, Django, and PostgreSQL
 - 👨🏻‍💻 Expert in building scalable software architectures and optimizing system performance
 - 🤝 Proven track record of collaborating effectively with cross-functional teams of 15+ members on various projects
 - 📄 Dedicated to enhancing user experience and meeting business requirements
