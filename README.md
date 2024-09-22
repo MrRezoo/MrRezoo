@@ -54,6 +54,6 @@
 - [Auth Service](https://github.com/MrRezoo/Django-Authentication-Service): [Python, Django, PostgreSQL, Docker]
 - [Linkak](https://github.com/jamedadi/linkak): [Python, Django]
 - [Online Shop](https://github.com/MrRezoo/django-online-shop): [Python, Django]
-- - [Car App](https://github.com/MrRezoo/CarApp): [**Golang**, Gin, Gorm, PostgreSQL, Docker]
+- [Car App](https://github.com/MrRezoo/CarApp): [**Golang**, Gin, Gorm, PostgreSQL, Docker]
 - [Task Management](https://github.com/MrRezoo/TaskManagement): [Golang, Fiber, Gorm, PostgreSQL, Docker]
 - [Code Challenge](https://github.com/MrRezoo/code-challenge): [Golang, Python, Redis, Docker]
