@@ -49,12 +49,11 @@
 ---
 
 ### 🚀 Sample Projects:
-
-- [Task Management](https://github.com/MrRezoo/TaskManagement): [Golang, Fiber, Gorm, PostgreSQL, Docker]
-- [Code Challenge](https://github.com/MrRezoo/code-challenge): [Golang, Python, Redis, Docker]
-- [Car App](https://github.com/MrRezoo/CarApp): [Golang, Gin, Gorm, PostgreSQL, Docker]
-- [Post Rating System](https://github.com/MrRezoo/post-rating-system): [Python, Django, DjangoREST, PostgreSQL, Redis, Docker]
+- [Post Rating System](https://github.com/MrRezoo/post-rating-system): [**Python**, Django, DjangoREST, PostgreSQL, Redis, Docker]
 - [Simplified GoodReads](https://github.com/MrRezoo/simple-goodreads): [Python, Django, DjangoREST, Celery, PostgreSQL, Redis, Docker]
 - [Auth Service](https://github.com/MrRezoo/Django-Authentication-Service): [Python, Django, PostgreSQL, Docker]
 - [Linkak](https://github.com/jamedadi/linkak): [Python, Django]
 - [Online Shop](https://github.com/MrRezoo/django-online-shop): [Python, Django]
+- - [Car App](https://github.com/MrRezoo/CarApp): [**Golang**, Gin, Gorm, PostgreSQL, Docker]
+- [Task Management](https://github.com/MrRezoo/TaskManagement): [Golang, Fiber, Gorm, PostgreSQL, Docker]
+- [Code Challenge](https://github.com/MrRezoo/code-challenge): [Golang, Python, Redis, Docker]
