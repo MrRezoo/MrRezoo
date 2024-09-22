@@ -3,7 +3,7 @@
 [![Reza Mobaraki | Mr.Rezoo's | Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=resume&logoColor=white)](https://flowcv.com/resume/3tcgks0hub)
 [![Reza Mobaraki | Mr.Rezoo's | LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrrezoo)
 [![Reza Mobaraki | Mr.Rezoo's | Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MR_Rezoo)
-[![Reza Mobaraki | Mr.Rezoo's | Twitter](https://img.shields.io/badge/mr_rezoo-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Mr_Rezoo)
+[![Reza Mobaraki | Mr.Rezoo's | Twitter](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Mr_Rezoo)
 
 ---
 
