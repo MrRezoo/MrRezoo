@@ -28,6 +28,19 @@
 
 ---
 
+### 🚀 Sample Projects:
+- [Crypto Exchange](https://github.com/MrRezoo/crypto-exchange): [**Python**, Django, DjangoREST, PostgreSQL, Redis, Docker]
+- [Post Rating System](https://github.com/MrRezoo/post-rating-system): [Python, Django, DjangoREST, PostgreSQL, Redis, Docker]
+- [Simplified GoodReads](https://github.com/MrRezoo/simple-goodreads): [Python, Django, DjangoREST, Celery, PostgreSQL, Redis, Docker]
+- [Auth Service](https://github.com/MrRezoo/Django-Authentication-Service): [Python, Django, PostgreSQL, Docker]
+- [Linkak](https://github.com/jamedadi/linkak): [Python, Django]
+- [Online Shop](https://github.com/MrRezoo/django-online-shop): [Python, Django]
+- [Car App](https://github.com/MrRezoo/CarApp): [**Golang**, Gin, Gorm, PostgreSQL, Docker]
+- [Task Management](https://github.com/MrRezoo/TaskManagement): [Golang, Fiber, Gorm, PostgreSQL, Docker]
+- [Code Challenge](https://github.com/MrRezoo/code-challenge): [Golang, Python, Redis, Docker]
+
+---
+
 ### 🌟 Open-Source Projects:
 
 - [Django for APIs: Build Web APIs with Python and Django](https://github.com/ftg-iran/dfa-persian)
@@ -42,14 +55,3 @@
 - [Text Mining](https://github.com/MrRezoo/TextMining-NLP/): [Python, NLP]
 - [Company Accident Damage Estimate](https://github.com/MrRezoo/insurance-company/): [Python, Machine Learning]
 
----
-
-### 🚀 Sample Projects:
-- [Post Rating System](https://github.com/MrRezoo/post-rating-system): [**Python**, Django, DjangoREST, PostgreSQL, Redis, Docker]
-- [Simplified GoodReads](https://github.com/MrRezoo/simple-goodreads): [Python, Django, DjangoREST, Celery, PostgreSQL, Redis, Docker]
-- [Auth Service](https://github.com/MrRezoo/Django-Authentication-Service): [Python, Django, PostgreSQL, Docker]
-- [Linkak](https://github.com/jamedadi/linkak): [Python, Django]
-- [Online Shop](https://github.com/MrRezoo/django-online-shop): [Python, Django]
-- [Car App](https://github.com/MrRezoo/CarApp): [**Golang**, Gin, Gorm, PostgreSQL, Docker]
-- [Task Management](https://github.com/MrRezoo/TaskManagement): [Golang, Fiber, Gorm, PostgreSQL, Docker]
-- [Code Challenge](https://github.com/MrRezoo/code-challenge): [Golang, Python, Redis, Docker]
