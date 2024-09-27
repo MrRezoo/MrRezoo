@@ -29,8 +29,8 @@
 ---
 
 ### 🚀 Sample Projects:
-- [Crypto Exchange](https://github.com/MrRezoo/crypto-exchange): [**Python**, Django, DjangoREST, PostgreSQL, Redis, Docker]
-- [Post Rating System](https://github.com/MrRezoo/post-rating-system): [Python, Django, DjangoREST, PostgreSQL, Redis, Docker]
+- [Crypto Exchange](https://github.com/MrRezoo/crypto-exchange): [**Python**, Django, DjangoREST, Celery, PostgreSQL, Redis, Docker]
+- [Post Rating System](https://github.com/MrRezoo/post-rating-system): [Python, Django, DjangoREST, Celery, PostgreSQL, Redis, Docker]
 - [Simplified GoodReads](https://github.com/MrRezoo/simple-goodreads): [Python, Django, DjangoREST, Celery, PostgreSQL, Redis, Docker]
 - [Auth Service](https://github.com/MrRezoo/Django-Authentication-Service): [Python, Django, PostgreSQL, Docker]
 - [Linkak](https://github.com/jamedadi/linkak): [Python, Django]
